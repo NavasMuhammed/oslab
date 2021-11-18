@@ -1,0 +1,2 @@
+servicetime[0]=at[0];
+servicetime[i]=servicetime[i-1]+bursttime[i-1];
